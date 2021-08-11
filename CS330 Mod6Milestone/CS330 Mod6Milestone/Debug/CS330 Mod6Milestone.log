@@ -1,0 +1,25 @@
+﻿  Application.cpp
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(344,13): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(349,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(354,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(359,13): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(364,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(369,13): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(396,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(402,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(451,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(452,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(471,27): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(472,25): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(473,28): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(487,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(488,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(489,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(749,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(750,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(754,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(755,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(756,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Mod6Milestone\CS330 Mod6Milestone\Application.cpp(757,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CS330 Mod6Milestone.vcxproj -> C:\Users\Drew\source\repos\CS330 Mod6Milestone\Debug\CS330 Mod6Milestone.exe
